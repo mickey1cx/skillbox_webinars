@@ -21,6 +21,7 @@ def auth():
     data = request.json
     login = data['login']
     password = data['password']
+    print(login, password)
 
     with open('users.json') as f:
         users = json.load(f)
