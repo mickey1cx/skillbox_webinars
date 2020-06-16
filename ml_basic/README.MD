@@ -8,3 +8,6 @@ https://youtu.be/ERcLDIYa_Kc
 https://live.skillbox.ru/java_course/online/150620  
 https://youtu.be/tnOfv0b1xyc  
 
+## day 03 - Итоги  
+https://live.skillbox.ru/java_course/online/160620  
+https://youtu.be/1sKyCjJ0OXY
